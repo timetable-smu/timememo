@@ -1,4 +1,4 @@
-package kr.ac.smu.cs.twoparkoneko_2
+package com.example.smuteamproject.timememo
 
 import android.app.Activity
 import android.content.Intent
